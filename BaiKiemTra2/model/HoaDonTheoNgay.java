@@ -5,7 +5,7 @@
 package model;
 
 /**
- *
+ * CODE BY CUONGDZ
  * @author vinhp
  */
 public class HoaDonTheoNgay extends HoaDon {
